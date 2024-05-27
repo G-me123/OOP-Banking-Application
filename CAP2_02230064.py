@@ -1,7 +1,13 @@
 #jigme namgyel
 # first year electrical 
+#02230064
 # module code: CSF101
 
+#Reference
+#https://www.blackbox.ai
+#https://chatgpt.com/?oai-dm=1
+#Copilot
+#Youtube
 
 import random # import random module
 import os  ##This is particularly useful for tasks like file manipulation,that's why it’s used in the banking application script to read from and write to a text file.
